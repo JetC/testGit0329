@@ -16,7 +16,7 @@ func exchange(inout a: Int, inout b: Int) {
 exchange(&i, &j)
 
 i
-
+j
 
 
 
